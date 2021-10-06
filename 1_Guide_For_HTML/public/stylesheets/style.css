@@ -7,9 +7,42 @@ a {
   color: #00B7FF;
 }
 
-.flex-header, footer{
+.flex-header, footer {
   display: flex;
   background-color: blueviolet;
   align-items: center;
   color: white;
+}
+
+#profile-icon {
+  width: 200px;
+}
+
+.flex-image {
+  flex: 1;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+.flex-titles{
+  flex: 8;
+  padding-right: 100px;
+  text-align: center;
+}
+
+.link-nav {
+  color: white;
+  text-decoration: none;
+}
+
+.link-site {
+  color: blueviolet;
+  text-decoration: none;
+}
+
+.main {
+  color: #333333;
 }

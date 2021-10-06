@@ -1,0 +1,25 @@
+body {
+    padding: 50px;
+    font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  }
+  
+  a {
+    color: #00B7FF;
+  }
+
+
+.flex-header {
+    font-size: 1.5em;
+    display: flex;
+    background-color: blueviolet;
+    align-items: center;
+    color: white;
+  }
+
+  table {
+      padding-top: 10px;
+  }
+
+  tr:nth-child(add){
+      background-color: #f2f2f2;
+  }
